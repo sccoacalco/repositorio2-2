@@ -1,0 +1,1 @@
+from loginapp.wsgi import application
